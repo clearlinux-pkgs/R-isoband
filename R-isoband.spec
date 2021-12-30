@@ -4,7 +4,7 @@
 #
 Name     : R-isoband
 Version  : 0.2.5
-Release  : 21
+Release  : 22
 URL      : https://cran.r-project.org/src/contrib/isoband_0.2.5.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/isoband_0.2.5.tar.gz
 Summary  : Generate Isolines and Isobands from Regularly Spaced Elevation
